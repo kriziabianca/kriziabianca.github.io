@@ -69,10 +69,10 @@
 <!-- navbar -->
 <div class="container">
 <div class="nav"><ul class="nav nav-pills navbar-fixed-top" role="navigation">
-<li><a href="index.html">Home</a></li>
-<li><a href="about.html">About</a></li>
-<li><a href="work.html">My Work</a></li>
-<li><a href="gallery.html">Gallery</a></li>
+<li><a href="index.php">Home</a></li>
+<li><a href="about.php">About</a></li>
+<li><a href="work.php">My Work</a></li>
+<li><a href="#gallery>Gallery</a></li>
 </ul></div>
 	
 <hr>
